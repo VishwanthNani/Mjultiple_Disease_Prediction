@@ -28,7 +28,6 @@ heart_disease_model = pickle.load(open(heart_disease_model_path,'rb'))
 
 parkinsons_model = pickle.load(open(parkinsons_model_path,'rb'))
 
-
 #sidebar for navigation
 
 with st.sidebar:
